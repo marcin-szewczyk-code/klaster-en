@@ -45,7 +45,7 @@ social:
   email: # opcjonalnie, możesz zostawić puste albo usunąć linię
   links:
     # The first element serves as the copyright owner's link
-    - https://klaster-plus.edu.pl/
+    - https://en.klaster-plus.edu.pl/
     - https://github.com/marcin-szewczyk-code/klaster-pl
     # Uncomment below to add more social links
     # - https://twitter.com/username # change to your Twitter homepage
