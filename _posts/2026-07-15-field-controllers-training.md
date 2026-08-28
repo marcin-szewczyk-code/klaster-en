@@ -1,59 +1,61 @@
 ---
-title: "Wizyta w Elektrometal Energetyka S.A. i szkolenie ze sterowników polowych"
-description: "Specjalistyczne szkolenie zespołu KLASTER+ z zakresu sterowników polowych i automatyki zabezpieczeniowej, przeprowadzone przez ekspertów Elektrometal Energetyka S.A."
+title: "Visit to Elektrometal Energetyka S.A. and Field Controller Training"
+description: "Technical training for the KLASTER+ team on field controllers and protection and control systems, delivered by experts from Elektrometal Energetyka S.A."
 date: 2026-07-15 18:00:00 +0200
 pin: false
 ---
 
-Członkowie zespołu projektu **KLASTER+** uczestniczyli w specjalistycznym szkoleniu z zakresu budowy i konfiguracji sterowników polowych, zorganizowanym przez partnera przemysłowego projektu – **Elektrometal Energetyka S.A.**
+Members of the **KLASTER+** project team took part in a training session on the design and configuration of field controllers, organized by the project’s industrial partner, **Elektrometal Energetyka S.A.**
 
-Podczas szkolenia uczestnicy zapoznali się z rozwiązaniami stosowanymi w sterownikach polowych oraz z praktycznymi zagadnieniami związanymi z ich konfiguracją i wykorzystaniem w systemach elektroenergetycznych. Omówiono również ich rolę w automatyce zabezpieczeniowej oraz w nowoczesnych systemach zarządzania energią.
+During the session, participants learned about the solutions used in field controllers and the practical aspects of configuring and applying them in power systems. Their role in protection and control systems and modern energy management systems was also discussed.
 
-Szkolenie poprowadził **Mariusz Ostrowski**, który podzielił się wieloletnim doświadczeniem z zakresu automatyki zabezpieczeniowej. Przekazana wiedza i praktyczne wskazówki stanowią ważne wsparcie dla dalszych prac prowadzonych w projekcie **KLASTER+**.
+The training was led by **Mariusz Ostrowski**, who shared his extensive experience in protection and control engineering. His knowledge and practical guidance will support the next stages of the **KLASTER+** project.
 
-Nowoczesne wspólnoty energetyczne wymagają nie tylko innowacyjnych koncepcji, lecz także odpowiednich technologii i kompetencji umożliwiających ich skuteczne wdrażanie. Dlatego rozwój wiedzy oraz ścisła współpraca środowiska naukowego i przemysłu są istotnymi elementami realizacji projektu.
+The **KLASTER+** project combines technical development with practical expertise. Close cooperation between academia and industry helps ensure that the proposed solutions can be implemented in real power systems.
 
-### Film ze szkolenia
+### Training video
 
-Za krótkim nagraniem stoją godziny praktycznej nauki, wymiany doświadczeń i wspólnej pracy nad rozwiązaniami wspierającymi rozwój nowoczesnej energetyki lokalnej.
+The short video shows some of the practical exercises and discussions from the training.
 
 <div class="ratio ratio-16x9">
   <iframe
     src="https://www.youtube.com/embed/zU12pqDAcPE"
-    title="Wizyta w Elektrometal Energetyka S.A. i szkolenie ze sterowników polowych"
+    title="Visit to Elektrometal Energetyka S.A. and field controller training"
     allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
     allowfullscreen>
   </iframe>
 </div>
+
 <p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-    <strong>Film 1.</strong> Szkolenie z budowy i konfiguracji sterowników polowych przeprowadzone przez ekspertów Elektrometal Energetyka S.A.
+  <strong>Video 1.</strong> Training on the design and configuration of field controllers delivered by Mariusz Ostrowski from Elektrometal Energetyka S.A.
 </p>
 
-### Uczestnicy szkolenia
+### Training participants
 
-Za każdą innowacją stoją ludzie, wiedza, ciągłe uczenie się, wymiana doświadczeń i współpraca.
+The training brought together members of the **KLASTER+** team and representatives of **Elektrometal Energetyka S.A.**
 
-![Szkolenie z budowy i konfiguracji sterowników polowych](/assets/posts/2026-07-15-field-controllers-training/01.jpeg)
-***Rys. 1.** Uczestnicy szkolenia z budowy i konfiguracji sterowników polowych.*
+![Training on the design and configuration of field controllers](/assets/posts/2026-07-15-field-controllers-training/01.jpeg)
+***Fig. 1.** Participants in the training on the design and configuration of field controllers.*
 
-![Sterowniki polowe](/assets/posts/2026-07-15-field-controllers-training/02.jpeg)
-***Rys. 2.** Wybrane rozwiązania techniczne prezentowane podczas szkolenia.*
+![Field controllers](/assets/posts/2026-07-15-field-controllers-training/02.jpeg)
+***Fig. 2.** Selected technical solutions presented during the training.*
 
-![Konfiguracja sterowników polowych](/assets/posts/2026-07-15-field-controllers-training/03.jpeg)
-***Rys. 3.** Rozdzielnice średniego napięcia w fabryce Elektrometal Energetyka S.A.*
+![Field controller configuration](/assets/posts/2026-07-15-field-controllers-training/03.jpeg)
+***Fig. 3.** Medium-voltage switchgear at the Elektrometal Energetyka S.A. factory.*
 
-![Uczestnicy szkolenia w Elektrometal Energetyka](/assets/posts/2026-07-15-field-controllers-training/04.jpeg)
-***Rys. 4.** Uczestnicy szkolenia wraz z przedstawicielami Elektrometal Energetyka S.A.*
+![Training participants at Elektrometal Energetyka S.A.](/assets/posts/2026-07-15-field-controllers-training/04.jpeg)
+***Fig. 4.** Training participants with representatives of Elektrometal Energetyka S.A.*
 
-### Podziękowania
+### Acknowledgments
 
-Dziękujemy ekspertom **Elektrometal Energetyka S.A.** za przekazaną wiedzę, praktyczne wskazówki oraz możliwość poznania rozwiązań, które mogą wspierać budowę nowoczesnych systemów zarządzania energią w społecznościach lokalnych.
+We thank **Mariusz Ostrowski** and the team at **Elektrometal Energetyka S.A.** for sharing their knowledge and practical guidance, and for presenting solutions that can support modern energy management systems in local communities.
 
-**Zespół KLASTER+:**  
-[Tadeusz Daszczyński](https://www.linkedin.com/in/ttadeusz-daszczynski/)  
-[Marcin Szewczyk](https://www.linkedin.com/in/marcin-szewczyk/)  
-[Kamil Przygoda](https://www.linkedin.com/in/kamil-przygoda-4bb736232/)  
-[Michał Połecki](https://www.linkedin.com/in/micha%C5%82-po%C5%82ecki-72b714a9/)  
-Łukasz Rokicki  
-Szymon Stoczko  
-[Robert Wójtowicz](https://www.linkedin.com/in/rkwojtowicz/)
+**KLASTER+ team:**
+
+- [Tadeusz Daszczyński](https://www.linkedin.com/in/ttadeusz-daszczynski/)
+- [Marcin Szewczyk](https://www.linkedin.com/in/marcin-szewczyk/)
+- [Kamil Przygoda](https://www.linkedin.com/in/kamil-przygoda-4bb736232/)
+- [Michał Połecki](https://www.linkedin.com/in/micha%C5%82-po%C5%82ecki-72b714a9/)
+- Łukasz Rokicki
+- Szymon Stoczko
+- [Robert Wójtowicz](https://www.linkedin.com/in/rkwojtowicz/)

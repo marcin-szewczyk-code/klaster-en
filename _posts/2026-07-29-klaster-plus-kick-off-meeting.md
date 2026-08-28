@@ -1,36 +1,36 @@
 ---
-title: "Spotkanie kick-off projektu KLASTER+"
-description: "Zapowiedź spotkania inaugurującego realizację projektu KLASTER+ z udziałem Zespołu, partnerów projektu oraz zaproszonych gości."
+title: "KLASTER+ Project Kick-off Meeting"
+description: "An announcement of the KLASTER+ project kick-off meeting, bringing together the project team, partners, and invited guests."
 date: 2026-07-29 12:00:00 +0200
 pin: true
 ---
 
-Na **22 września 2026 r.** zaplanowano spotkanie kick-off inaugurujące realizację projektu **KLASTER+**. W wydarzeniu wezmą udział członkowie Zespołu, przedstawiciele partnerów projektu oraz zaproszeni goście.
+The **KLASTER+** project kick-off meeting will take place on **22 September 2026**. It will bring together project team members, representatives of the project partners, and invited guests.
 
-## Zaproszenie
+## Invitation
 
-Najważniejsze informacje dotyczące wydarzenia przedstawiono poniżej.
+Key information about the event is provided below.
 
-![Zaproszenie na spotkanie kick-off projektu KLASTER+](/assets/posts/2026-07-29-klaster-plus-kick-off-meeting/kick-off-invitation.png)
-***Rys. 1.** Zaproszenie na spotkanie inaugurujące realizację projektu KLASTER+.*
+![Invitation to the KLASTER+ project kick-off meeting (in Polish)](/assets/posts/2026-07-29-klaster-plus-kick-off-meeting/kick-off-invitation.png)
+***Fig. 1.** Invitation to the KLASTER+ project kick-off meeting (in Polish).*
 
+> Further organizational details and the meeting agenda will be shared with participants once finalized.
 
-> Szczegółowe informacje organizacyjne oraz agenda spotkania zostaną przekazane uczestnikom po ich ostatecznym ustaleniu.
 {: .prompt-tip }
 
-## Cel spotkania
+## Purpose of the meeting
 
-Celem spotkania będzie omówienie założeń projektu, planu jego realizacji oraz zasad współpracy pomiędzy Zespołem a partnerami. Będzie to również okazja do przedstawienia kompetencji poszczególnych uczestników i określenia ich roli w planowanych działaniach.
+The meeting will introduce the project objectives, implementation plan, and working arrangements between the team and project partners. It will also give participants an opportunity to present their expertise and discuss their roles in the planned activities.
 
-## Planowane zagadnienia
+## Planned topics
 
-Podczas spotkania przewidziano między innymi:
+The meeting will cover:
 
-- przedstawienie celów i oczekiwanych rezultatów projektu,
-- omówienie zakresu planowanych prac badawczych i rozwojowych,
-- przedstawienie harmonogramu oraz najważniejszych etapów realizacji,
-- omówienie roli członków Zespołu i partnerów projektu,
-- ustalenie zasad komunikacji i organizacji współpracy,
-- określenie najbliższych działań.
+- project objectives and expected outcomes,
+- the scope of the planned research and development work,
+- the project schedule and key milestones,
+- the roles of team members and project partners,
+- communication and coordination arrangements,
+- immediate next steps.
 
-Po spotkaniu opublikujemy na stronie relację oraz informacje o podjętych ustaleniach i kolejnych działaniach projektu.
+After the meeting, we will publish a summary covering the main outcomes and the project’s next steps.

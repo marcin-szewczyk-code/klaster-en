@@ -1,20 +1,20 @@
 ---
-title: "Publikacja zespołu KLASTER+ w Przeglądzie Elektrotechnicznym"
-description: "Artykuł dotyczący modelu wspólnot energetycznych przyszłości opracowany przez Zespół KLASTER+."
+title: "Article by the KLASTER+ Team Published in Electrical Review (Przegląd Elektrotechniczny)"
+description: "The publication presents a technical and systemic model of energy communities of the future designed to support local renewable energy integration and reduce energy poverty."
 date: 2026-07-29 12:00:00 +0200
 pin: false
 ---
 
-Miło nam poinformować, że w lipcowym wydaniu czasopisma „Przegląd Elektrotechniczny” ukazał się artykuł opracowany przez Zespół **KLASTER+**:
+In July 2026, members of the **KLASTER+** team published an article in *Electrical Review (Przegląd Elektrotechniczny)*, No. 7/2026:
 
-**„Model techniczno-systemowy wspólnot energetycznych przyszłości jako narzędzia integracji lokalnych odnawialnych źródeł energii i redukcji ubóstwa energetycznego”**
+**“A technical and systemic model of energy communities of the future as a tool for integrating local renewable energy sources and reducing energy poverty”**
 
-### Pierwsza strona artykułu
+### First page of the article
 
-![Pierwsza strona artykułu](/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci-web.png)
-***Rys. 1.** Pierwsza strona artykułu opublikowanego w czasopiśmie „Przegląd Elektrotechniczny”, nr 7/2026.*
+![First page of the article](/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci-web.png)
+***Fig. 1.** First page of the article published in *Electrical Review (Przegląd Elektrotechniczny)* (No. 7/2026).*
 
-### Autorzy artykułu
+### Authors
 
 - Tadeusz Daszczyński,
 - Michał Połecki,
@@ -24,16 +24,24 @@ Miło nam poinformować, że w lipcowym wydaniu czasopisma „Przegląd Elektrot
 - Robert Wójtowicz,
 - Kamil Przygoda.
 
-### Zakres i wyniki pracy
+### Scope and findings
 
-W artykule przedstawiono model testowy sieci opracowany w programie **DIgSILENT PowerFactory** oraz przeanalizowano cztery warianty jej pracy. Wyniki pokazują, że skoordynowane sterowanie źródłami odnawialnymi i magazynami energii, uwzględniające warunki pracy sieci dystrybucyjnej, pozwala zwiększyć wykorzystanie lokalnej energii z OZE i wyeliminować przeciążanie transformatora w stacji GPZ.
+The article presents a test network model developed in **DIgSILENT PowerFactory** and analyzes four operating scenarios. The results show that coordinated control of renewable energy sources and energy storage systems, accounting for distribution grid operating conditions, can increase the use of locally generated renewable energy and prevent overloading of the transformer at the HV/MV substation.
 
-Artykuł został przygotowany na podstawie referatu wygłoszonego przez **Michała Połeckiego** podczas konferencji **SEBOR’26 – System Elektroenergetyczny: Bezpieczeństwo Operacyjne i Rynkowe**. Oprócz **Michała Połeckiego**, który wygłosił referat, w konferencji uczestniczyli również **Kamil Przygoda** i **Marcin Szewczyk**.
+The article builds on a presentation given by **Michał Połecki** at the **SEBOR’26 – Power System: Operational and Market Security** conference. **Kamil Przygoda** and **Marcin Szewczyk** also attended the event.
 
-Serdecznie gratulujemy całemu Zespołowi! 👏
+> **Related post**
+>
+> [KLASTER+ Team at the SEBOR’26 Conference]({{ '/posts/sebor-2026-conference/' | relative_url }})
 
-W przyszłym roku również planujemy udział w konferencji SEBOR.
+{: .prompt-tip }
 
-### Pełny tekst artykułu
+The team plans to return to the SEBOR conference next year.
 
-[Artykuł w numerze 7/2026 „Przeglądu Elektrotechnicznego”]({{ '/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci.pdf' | relative_url }})
+### Full text
+
+The full article is available as a PDF:
+
+[Article in the July 2026 issue of *Electrical Review (Przegląd Elektrotechniczny)* (in Polish)]({{ '/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci.pdf' | relative_url }})
+
+Congratulations to the entire team! 👏

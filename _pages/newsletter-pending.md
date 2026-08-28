@@ -1,18 +1,18 @@
 ---
-title: Newsletter – Oczekiwanie na potwierdzenie
+title: Newsletter – Confirm your subscription
 permalink: /newsletter-confirmation/
 layout: page
 sitemap: false
 robots: noindex, nofollow
 ---
 
-> Status: oczekiwanie na potwierdzenie adresu e-mail
+> Status: awaiting email confirmation
 {: .prompt-info }
 
-Na podany adres e-mail wysłano wiadomość z linkiem aktywacyjnym.  
+We have sent a confirmation link to the email address you provided.
 
-Aby aktywować subskrypcję, otwórz wiadomość i kliknij link potwierdzający.
+To activate your subscription, open the email and click the confirmation link.
 
-Jeżeli e-mail nie dotrze w ciągu kilku minut, sprawdź folder **SPAM** lub zakładkę **Oferty**.
+If it does not arrive within a few minutes, check your **Spam** or **Promotions** folder.
 
-W każdej chwili możesz zrezygnować z subskrypcji, korzystając z linku w stopce wiadomości.
+You can unsubscribe at any time using the link in the footer of any email.

@@ -4,7 +4,7 @@ icon: fas fa-camera
 order: 5
 ---
 
-> **Współpraca z mediami**
+> **Media inquiries**
 >
-> Osobą odpowiedzialną za współpracę z mediami jest kierownik projektu dr inż. Tadeusz Daszczyński: [LinkedIn](https://www.linkedin.com/in/ttadeusz-daszczynski/).
+> For media inquiries, please contact the project leader, Dr. Tadeusz Daszczyński: [LinkedIn](https://www.linkedin.com/in/ttadeusz-daszczynski/).
 {: .prompt-tip }

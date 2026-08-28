@@ -1,22 +1,22 @@
 ---
-title: "Udział Zespołu KLASTER+ w konferencji SEBOR’26"
-description: "Referat dotyczący wspólnot energetycznych przyszłości przedstawiony przez Michała Połeckiego podczas konferencji SEBOR’26."
+title: "KLASTER+ Team at the SEBOR’26 Conference"
+description: "Michał Połecki presented the KLASTER+ team’s work on energy communities of the future at the SEBOR’26 conference."
 date: 2026-03-19 18:00:00 +0100
 pin: false
 ---
 
-W dniach **17–19 marca 2026 r.** członkowie Zespołu **KLASTER+** uczestniczyli w konferencji naukowo-technicznej **SEBOR’26 – System Elektroenergetyczny: Bezpieczeństwo Operacyjne i Rynkowe**, która odbyła się w Kazimierzu Dolnym.
+From **17 to 19 March 2026**, members of the **KLASTER+** team attended the **SEBOR’26 – Power System: Operational and Market Security** scientific and technical conference in Kazimierz Dolny.
 
-![Widok Kazimierza Dolnego – miejsca konferencji SEBOR’26](/assets/posts/2026-03-19-sebor-2026-conference/kazimierz-dolny-sebor-2026.webp)
-***Rys. 1.** Kazimierz Dolny – miejsce konferencji SEBOR’26.*
+![View of Kazimierz Dolny, host town of the SEBOR’26 conference](/assets/posts/2026-03-19-sebor-2026-conference/kazimierz-dolny-sebor-2026.webp)
+***Fig. 1.** Kazimierz Dolny, host town of the SEBOR’26 conference.*
 
-## Referat Zespołu KLASTER+
+## KLASTER+ presentation
 
-Podczas konferencji **Michał Połecki** wygłosił referat:
+At the conference, **Michał Połecki** gave a presentation entitled:
 
-**„Koncepcja techniczno-systemowa wspólnot energetycznych przyszłości jako narzędzia integracji lokalnych odnawialnych źródeł energii i redukcji ubóstwa energetycznego”**
+**A technical and systemic model of energy communities of the future as a tool for integrating local renewable energy sources and reducing energy poverty** (in Polish)
 
-Autorzy referatu:
+The authors were:
 
 - Tadeusz Daszczyński,
 - Michał Połecki,
@@ -26,32 +26,33 @@ Autorzy referatu:
 - Robert Wójtowicz,
 - Kamil Przygoda.
 
-W konferencji uczestniczyli **Michał Połecki**, **Kamil Przygoda** i **Marcin Szewczyk**.
+The **KLASTER+** team was represented at the conference by **Michał Połecki**, **Kamil Przygoda**, and **Marcin Szewczyk**.
 
-## O konferencji
+## About the conference
 
-SEBOR jest konferencją poświęconą bezpieczeństwu operacyjnemu i rynkowemu systemu elektroenergetycznego. W edycji SEBOR’26 uczestniczyło około 150 osób, a w jej programie znalazło się 30 referatów dotyczących między innymi stabilności systemu elektroenergetycznego, integracji OZE, elastyczności, sterowania oraz regulacji rynkowych.
+SEBOR focuses on the operational and market security of power systems. Around 150 people attended the 2026 conference, which featured 30 presentations on topics including power-system stability, renewable energy integration, flexibility, control, and market regulations.
 
-Organizatorami wydarzenia były:
+The event was organized by:
 
-- Stowarzyszenie Elektryków Polskich – Oddział Lubelski,
-- Politechnika Lubelska,
-- Instytut Energetyki – Oddział Gdańsk.
+- Association of Polish Electrical Engineers (SEP), Lublin Branch,
+- Lublin University of Technology,
+- Institute of Power Engineering, Gdańsk Branch.
 
-## Od referatu do publikacji
+## From presentation to publication
 
-Rozwinięciem zagadnień przedstawionych podczas konferencji był artykuł:
+The work presented at the conference was later developed into the article:
 
-**„Model techniczno-systemowy wspólnot energetycznych przyszłości jako narzędzia integracji lokalnych odnawialnych źródeł energii i redukcji ubóstwa energetycznego”**
+**A technical and systemic model of energy communities of the future as a tool for integrating local renewable energy sources and reducing energy poverty**
 
-Artykuł został opublikowany w lipcowym numerze czasopisma „Przegląd Elektrotechniczny”, nr 7/2026.
+The article was published in the July 2026 issue of *Przegląd Elektrotechniczny* (No. 7/2026).
 
-> **Wpis poświęcony publikacji**
-> 
-> [Publikacja zespołu KLASTER+ w Przeglądzie Elektrotechnicznym]({{ '/posts/publication-electrical-review/' | relative_url }})
+> **Related post**
+>
+> [KLASTER+ team publication in *Przegląd Elektrotechniczny* (in Polish)]({{ '/posts/publication-electrical-review/' | relative_url }})
+
 {: .prompt-tip }
 
-## Więcej informacji
+## More information
 
-- [Oficjalna strona konferencji SEBOR](https://sebor.pollub.pl/) (dostęp: 29.07.2026)
-- [Podsumowanie konferencji SEBOR’26 na stronie organizatorów](https://sebor.pollub.pl/aktualnosci/podsumowanie-konferencji-sebor26-4.html) (dostęp: 29.07.2026)
+- [Official SEBOR conference website](https://sebor.pollub.pl/) (accessed 29 July 2026)
+- [SEBOR’26 conference summary on the organiser’s website](https://sebor.pollub.pl/aktualnosci/podsumowanie-konferencji-sebor26-4.html) (accessed 29 July 2026)

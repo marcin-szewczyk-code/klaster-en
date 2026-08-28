@@ -1,14 +1,12 @@
 ---
-title: Polityka prywatności
-description: "Informacja o przetwarzaniu danych w serwisie projektu KLASTER+: wykorzystanie Google Analytics (GA4) wyłącznie do celów statystycznych oraz brak profilowania i działań marketingowych."
+title: Privacy Policy
+description: "Information about data processing on the KLASTER+ project website: Google Analytics (GA4) is used only for statistical purposes, with no profiling or marketing."
 layout: page
 permalink: /privacy/
 ---
 
-Strona wykorzystuje Google Analytics (GA4) w celu statystycznym
-(zliczanie odsłon i ogólne informacje o korzystaniu).
+This website uses Google Analytics (GA4) for statistical purposes, including page-view counts and general information about website use.
 
-Dane zbierane przez Google Analytics są przetwarzane zgodnie z polityką
-Google: [https://policies.google.com/privacy](https://policies.google.com/privacy).
+Data collected by Google Analytics is processed in accordance with [Google’s Privacy Policy](https://policies.google.com/privacy).
 
-Strona nie wykorzystuje danych do profilowania ani celów marketingowych.
+The website does not use data for profiling or marketing purposes.

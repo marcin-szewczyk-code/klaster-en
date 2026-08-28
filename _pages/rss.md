@@ -1,38 +1,38 @@
 ---
-title: Subskrybuj aktualności przez RSS
-description: "Kanał RSS (Atom) serwisu projektu KLASTER+: adres kanału oraz instrukcja dodania go do wybranego czytnika."
+title: Subscribe to project news via RSS
+description: "The RSS (Atom) feed for the KLASTER+ project website, including the feed address and instructions for adding it to an RSS reader."
 layout: page
 permalink: /rss/
 post_id: rss
 ---
 
-Serwis projektu **KLASTER+** udostępnia kanał **RSS (Atom)**. Dzięki niemu możesz śledzić aktualności bez konieczności regularnego odwiedzania strony.
+The **KLASTER+** project website provides an **RSS (Atom)** feed. It allows you to follow project news without visiting the website regularly.
 
-> **Jak dodać kanał RSS:**
+> **How to subscribe to the RSS feed:**
 >
-> 1. Zainstaluj i otwórz wybrany czytnik RSS.
-> 2. Skopiuj [adres kanału KLASTER+]({{ '/feed.xml' | relative_url }}).
-> 3. Wybierz opcję dodania nowego źródła lub subskrypcji.
-> 4. Wklej adres kanału i zatwierdź.
+> 1. Install and open an RSS reader of your choice.
+> 2. Copy the [KLASTER+ feed address]({{ '/feed.xml' | relative_url }}).
+> 3. Select the option to add a new feed or subscription.
+> 4. Paste the feed address and confirm.
 {: .prompt-tip }
 
-Jeśli otworzysz link kanału w przeglądarce, może pojawić się zawartość pliku XML. Jest to prawidłowe – kanał jest przeznaczony do obsługi przez czytniki RSS.
+If you open the feed link in a web browser, you may see the contents of an XML file. This is normal – the feed is intended for use in an RSS reader.
 
-Od tej chwili nowe wpisy publikowane w zakładce **Aktualności** będą automatycznie pojawiać się w Twoim czytniku.
+New posts published in the **News** section will then appear automatically in your reader.
 
-## Czytniki RSS
+## RSS readers
 
-Kanał można dodać między innymi do:
+You can add the feed to:
 
-- Feedly lub Inoreader — czytników działających w przeglądarce i na urządzeniach mobilnych,
-- NetNewsWire — aplikacji na macOS i iOS,
-- Mozilla Thunderbird — klienta poczty z obsługą kanałów RSS,
-- rozszerzeń RSS do przeglądarek internetowych,
-- innych aplikacji obsługujących standard RSS lub Atom.
+- Feedly or Inoreader – RSS readers available on the web and mobile devices;
+- NetNewsWire – an app for macOS and iOS;
+- Mozilla Thunderbird – an email client with RSS support;
+- RSS browser extensions;
+- other apps that support RSS or Atom feeds.
 
-## Przykładowy widok kanału
+## Example feed view
 
-Poniżej przedstawiono przykładowy widok kanału aktualności KLASTER+ w aplikacji RSS zainstalowanej na urządzeniu mobilnym.
+The example below shows the **KLASTER+** news feed in an RSS reader installed on a mobile device.
 
-![Widok kanału RSS strony KLASTER+ w czytniku zainstalowanym na iPhone]({{ 'assets/pages/' | append: page.post_id | append: '/rss-feed-in-app.jpg' }})
-***Rys. 1.** Widok kanału RSS strony KLASTER+ w czytniku zainstalowanym na iPhone.*
+![KLASTER+ RSS feed displayed in a reader on an iPhone]({{ 'assets/pages/' | append: page.post_id | append: '/rss-feed-in-app.jpg' }})
+***Fig. 1.** KLASTER+ RSS feed displayed in a reader on an iPhone.*

@@ -1,21 +1,20 @@
 ---
-title: Prawa autorskie
-description: "Zasady praw autorskich strony: model „Wszelkie prawa zastrzeżone” dla treści redakcyjnych."
+title: Copyright
+description: "Copyright policy for the KLASTER+ website: all rights reserved for project content."
 layout: page
 permalink: /legal/
 ---
 
-Prawa do treści, publikacji, dokumentów, fotografii i pozostałych materiałów przysługują ich autorom lub podmiotom wskazanym w serwisie.
-Z tego względu przyjęto zachowawczy model licencyjny zapewniający pełną kontrolę autorską.
+Copyright in texts, publications, documents, photographs, and other materials belongs to their respective authors or other rights holders identified on the website. The website therefore uses a conservative licensing model that leaves full control with the copyright holders.
 
-Pod każdym wpisem wyświetlana jest informacja:
+Each post displays the following notice:
 
-> © KLASTER+. Wszelkie prawa zastrzeżone.
+> © KLASTER+. All rights reserved.
 
-W stopce strony wyświetlany jest zapis:
+The website footer displays:
 
-> © 2026–YYYY KLASTER+. Wszelkie prawa zastrzeżone.
+> © 2026–YYYY KLASTER+. All rights reserved.
 
-gdzie YYYY oznacza bieżący rok. Wskazuje to rok rozpoczęcia projektu oraz jego dalszy rozwój.
+Here, YYYY represents the current year. The date range begins with the year the project was launched and updates as the project continues.
 
-Wykorzystanie materiałów wymaga uprzedniej zgody autora lub autorów, z wyjątkiem przypadków dozwolonych prawem autorskim, w szczególności cytowania krótkich fragmentów z podaniem źródła.
+These materials may be used only with prior permission from the relevant copyright holders, except as permitted by copyright law, including the quotation of short excerpts with proper attribution.

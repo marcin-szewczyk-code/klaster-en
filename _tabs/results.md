@@ -1,23 +1,23 @@
 ---
 # the default layout is 'page'
 icon: fas fa-flask
-title: Rezultaty
+title: Project Results
 order: 4
 ---
 
-Na tej stronie prezentujemy opracowane rozwiązania, publikacje  oraz inne rezultaty związane z realizacją projektu **KLASTER+**. Strona będzie uzupełniana wraz z postępem prac.
+This page presents technical solutions, publications, and other outputs from the **KLASTER+** project. It will be updated as the project progresses.
 
+## Article in Przegląd Elektrotechniczny
 
-## Publikacja w Przeglądzie Elektrotechnicznym
+In July 2026, **KLASTER+** team members published an article in *Przegląd Elektrotechniczny* (No. 7/2026):
 
-W lipcowym wydaniu czasopisma „Przegląd Elektrotechniczny”, nr 7/2026, ukazał się artykuł członków zespołu **KLASTER+**:
+**“A technical and systemic model of energy communities of the future as a tool for integrating local renewable energy sources and reducing energy poverty”** *(in Polish)*
 
-**„Model techniczno-systemowy wspólnot energetycznych przyszłości jako narzędzia integracji lokalnych odnawialnych źródeł energii i redukcji ubóstwa energetycznego”**
+![First page of the article](/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci-web.png)
 
-![Pierwsza strona artykułu](/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci-web.png)
-***Rys. 1.** Pierwsza strona artykułu opublikowanego w czasopiśmie „Przegląd Elektrotechniczny”, nr 7/2026.*
+***Fig. 1.** First page of the article published in Przegląd Elektrotechniczny, No. 7/2026 (in Polish).*
 
-### Autorzy artykułu
+### Authors
 
 - Tadeusz Daszczyński,
 - Michał Połecki,
@@ -27,13 +27,13 @@ W lipcowym wydaniu czasopisma „Przegląd Elektrotechniczny”, nr 7/2026, ukaz
 - Robert Wójtowicz,
 - Kamil Przygoda.
 
-### Zakres i wyniki pracy
+### Scope and results
 
-W artykule przedstawiono model testowy sieci opracowany w programie **DIgSILENT PowerFactory** oraz przeanalizowano cztery warianty jej pracy. Wyniki pokazują, że skoordynowane sterowanie źródłami odnawialnymi i magazynami energii, uwzględniające warunki pracy sieci dystrybucyjnej, pozwala zwiększyć wykorzystanie lokalnej energii z OZE i wyeliminować przeciążanie transformatora w stacji GPZ.
+The article presents a test network model developed in **DIgSILENT PowerFactory** and examines four operating scenarios. The results show that coordinated control of renewable energy sources and energy storage systems that accounts for distribution network operating conditions can increase the use of locally generated renewable energy and prevent transformer overload at the primary substation.
 
-Artykuł powstał na podstawie referatu wygłoszonego przez **Michała Połeckiego** podczas konferencji **SEBOR’26 – System Elektroenergetyczny: Bezpieczeństwo Operacyjne i Rynkowe**.
+The article is based on a paper presented by **Michał Połecki** at the **SEBOR’26 – Power System: Operational and Market Security** conference.
 
-> **Materiały**
+> **Materials**
 >
-> - [Artykuł w numerze 7/2026 „Przeglądu Elektrotechnicznego”]({{ '/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci.pdf' | relative_url }})
+> - [Article in issue No. 7/2026 of Przegląd Elektrotechniczny (in Polish)]({{ '/assets/posts/2026-07-21-publication-electrical-review/sebor-2026-wspolnoty-energetyczne-przyszlosci.pdf' | relative_url }})
 {: .prompt-tip }

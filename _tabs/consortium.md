@@ -1,94 +1,91 @@
 ---
 # the default layout is 'page'
 icon: fas fa-building
-title: Partnerzy projektu
+title: Project Partners
 order: 3
 ---
 
-Projekt KLASTER+ bazuje na współpracy nauki i przemysłu. Realizowany jest przez **Politechnikę Warszawską** we współpracy z partnerami posiadającymi doświadczenie w zakresie mikrosieci, infrastruktury energetycznej, automatyki elektroenergetycznej oraz eksploatacji sieci dystrybucyjnych.
+KLASTER+ brings together academia and industry. The project is led by **Warsaw University of Technology** in cooperation with partners experienced in microgrids, energy infrastructure, power system automation, and distribution network operation.
 
-Połączenie zaplecza naukowego z wiedzą techniczną i doświadczeniem przemysłowym umożliwia przeprowadzenie prac od analizy danych i modelowania aż do budowy, przetestowania i demonstracji prototypowego rozwiązania.
+The work covers the full process, from data analysis and modeling to prototype development, testing, and demonstration.
 
 <div style="text-align: center;">
   <img
     src="/assets/pages/consortium/project-partners.png"
-    alt="Partnerzy projektu KLASTER+"
+    alt="KLASTER+ project partners"
     style="width: 500px; max-width: 100%; border: 1px solid #ccc; padding: 4px; border-radius: 4px;"
   >
 <p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-  <strong>Rys 1.</strong> Partnerzy projektu KLASTER+.</p>
+  <strong>Fig. 1.</strong> KLASTER+ project partners.</p>
 </div>
 
-
-
-> **Oficjalne strony partnerów**
+> **Official partner websites**
 >
-> - [Politechnika Warszawska](https://www.pw.edu.pl/)
+> - [Warsaw University of Technology](https://www.pw.edu.pl/)
 > - [Elektrometal Energetyka S.A.](https://elektrometal-energetyka.pl/)
-> - [CEZAMAT Politechniki Warszawskiej](https://cezamat.pw.edu.pl/)
+> - [CEZAMAT, Warsaw University of Technology](https://cezamat.pw.edu.pl/)
 > - [ESA HUB – Hub of Power](https://www.hubofpower.com/)
 > - [EnH2O Sp. z o.o.](https://enh2o.com.pl/)
 {: .prompt-info }
 
+## Warsaw University of Technology – project leader
 
-## Politechnika Warszawska – lider projektu
+**Warsaw University of Technology** coordinates the project and carries out its research and technical work. The project team includes staff from the **Faculty of Electrical Engineering** and the **WUT IT Center**.
 
-Politechnika Warszawska odpowiada za koordynację projektu oraz realizację jego prac badawczych i technicznych. Zespół projektowy tworzą pracownicy Wydziału Elektrycznego i Centrum Informatyzacji PW.
+The main tasks of Warsaw University of Technology include:
 
-Do głównych zadań Politechniki Warszawskiej należą:
-
-- analiza danych energetycznych,
-- modelowanie i symulacja pracy mikrosieci,
-- opracowanie algorytmów sterowania,
-- przygotowanie wymagań dla sterownika polowego,
-- prowadzenie badań laboratoryjnych i testów HIL,
-- integracja rezultatów prac poszczególnych partnerów,
-- koordynacja wdrożenia i upowszechniania wyników projektu.
+- analysis of energy data,
+- microgrid modeling and simulation,
+- development of control algorithms,
+- definition of requirements for the field controller,
+- laboratory and HIL testing,
+- integration of the results delivered by the project partners,
+- coordination of deployment and communication of the project results.
 
 ## Elektrometal Energetyka S.A.
 
-**Elektrometal Energetyka S.A.** jest producentem rozdzielnic średniego napięcia, aparatury łączeniowej oraz cyfrowych sterowników polowych.
+**Elektrometal Energetyka S.A.** manufactures medium-voltage switchgear, switching equipment, and digital field controllers.
 
-Partner uczestniczy w opracowaniu wymagań funkcjonalnych i technicznych dla sterownika polowego i urządzeń agregujących dane. Wspiera również implementację nowych funkcji, konfigurację i testowanie prototypów oraz integrację opracowanego rozwiązania z infrastrukturą klastra energii.
+The company contributes to the functional and technical requirements for the field controller and data aggregation devices. It also supports the implementation of new functions, the configuration and testing of prototypes, and the integration of the solution with the energy cluster infrastructure.
 
-Doświadczenie Elektrometal Energetyka S.A. umożliwia powiązanie prac badawczych z wymaganiami technicznymi, produkcyjnymi i eksploatacyjnymi urządzeń stosowanych w rzeczywistych sieciach elektroenergetycznych.
+The company’s industry experience links the research work with the technical, manufacturing, and operational requirements for equipment used in power grids.
 
-## CEZAMAT Politechniki Warszawskiej
+## CEZAMAT, Warsaw University of Technology
 
-**Centrum Zaawansowanych Materiałów i Technologii CEZAMAT PW** jest partnerem merytorycznym i infrastrukturalnym projektu.
+The **Centre for Advanced Materials and Technologies (CEZAMAT)** at Warsaw University of Technology is a technical and infrastructure partner in the project.
 
-CEZAMAT udostępnia historyczne i bieżące dane dotyczące zużycia oraz wytwarzania energii w swoich obiektach. Dane te wspierają wybór obiektu referencyjnego oraz opracowanie, kalibrację i weryfikację modelu mikrosieci.
+CEZAMAT provides historical and current data on energy consumption and generation at its facilities. These data are used to select the reference site and to develop, calibrate, and validate the microgrid model.
 
-Eksperci CEZAMAT uczestniczą również w konsultowaniu modeli i wyników analiz, pomagając dostosować opracowywane rozwiązania do rzeczywistych warunków funkcjonowania nowoczesnej infrastruktury badawczej.
+CEZAMAT also contributes to the review of the models and analysis results. This ensures that the proposed solutions reflect the operating conditions of modern research infrastructure.
 
 ## ESA HUB Sp. z o.o.
 
-**ESA HUB Sp. z o.o.** jest liderem przedsięwzięcia „Referencyjny projekt warszawskiego Klastra Energii CEZAMAT Hub of Power” oraz partnerem merytorycznym i infrastrukturalnym projektu KLASTER+.
+**ESA HUB Sp. z o.o.** leads the initiative titled “Reference Project for the Warsaw CEZAMAT Hub of Power Energy Cluster” and is a technical and infrastructure partner in KLASTER+.
 
-Partner udostępnia dane dotyczące obiektów objętych rozwojem mikrosieci OZE oraz umożliwia prowadzenie pomiarów i analiz przed realizacją inwestycji i po jej zakończeniu.
+The company provides data from its sites where the renewable energy microgrid is being developed. It also enables measurements and analyses before and after the related investments.
 
-Do zakresu współpracy należą również konsultacje dotyczące zarządzania danymi, integracji systemów energetycznych oraz wdrażania rozwiązań cyfrowych w rzeczywistej infrastrukturze. Pozwala to opracowywać i weryfikować modele na podstawie rzeczywistych danych operacyjnych.
+The collaboration also covers data management, energy system integration, and the deployment of digital solutions in operational infrastructure. This enables the models to be developed and validated using real operating data.
 
 ## EnH2O Sp. z o.o.
 
-**EnH2O Sp. z o.o.** jest operatorem systemu dystrybucyjnego niepublicznego (OSDn), posiadającym doświadczenie w eksploatacji infrastruktury elektroenergetycznej oraz integracji odnawialnych źródeł energii.
+**EnH2O Sp. z o.o.** is a non-public distribution system operator (OSDn) with experience in operating power infrastructure and integrating renewable energy sources.
 
-Partner prowadzi konsultacje techniczne dotyczące współpracy opracowywanego sterownika z systemami OSDn oraz wspiera przygotowanie wymagań funkcjonalnych i eksploatacyjnych.
+The company provides technical advice on how the field controller will interact with OSDn systems. It also contributes to the functional and operational requirements.
 
-Infrastruktura EnH2O umożliwi weryfikację wybranych funkcji rozwiązania w rzeczywistych warunkach pracy sieci. Pozwoli to ocenić jego skuteczność, niezawodność, interoperacyjność i możliwości przyszłego zastosowania w innych mikrosieciach.
+Selected functions will be verified using EnH2O infrastructure under real network operating conditions. The tests will assess the solution’s performance, reliability, interoperability, and potential use in other microgrids.
 
-# Listy intencyjne
+## Letters of intent
 
-Udział partnerów merytorycznych, infrastrukturalnych i przemysłowych w projekcie został potwierdzony w przedstawionych poniżej listach intencyjnych.
+The letters of intent below confirm the participation of the project’s technical, infrastructure, and industrial partners.
 
-![List intencyjny Elektrometal Energetyka](/assets/pages/consortium/elektrometal-web.png)
-***Rys. 1.** List intencyjny Elektrometal Energetyka S.A.*
+![Letter of intent from Elektrometal Energetyka (in Polish)](/assets/pages/consortium/elektrometal-web.png)
+***Fig. 2.** Letter of intent from Elektrometal Energetyka S.A. (in Polish).*
 
-![List intencyjny CEZAMAT](/assets/pages/consortium/cezamat-web.png)
-***Rys. 2.** List intencyjny Centrum Zaawansowanych Materiałów i Technologii CEZAMAT Politechniki Warszawskiej.*
+![Letter of intent from CEZAMAT (in Polish)](/assets/pages/consortium/cezamat-web.png)
+***Fig. 3.** Letter of intent from the Centre for Advanced Materials and Technologies (CEZAMAT) at Warsaw University of Technology (in Polish).*
 
-![List intencyjny ESA HUB](/assets/pages/consortium/esahub-web.png)
-***Rys. 3.** List intencyjny ESA HUB.*
+![Letter of intent from ESA HUB (in Polish)](/assets/pages/consortium/esahub-web.png)
+***Fig. 4.** Letter of intent from ESA HUB (in Polish).*
 
-![List intencyjny EnH2O](/assets/pages/consortium/enh2o-web.png)
-***Rys. 4.** List intencyjny EnH2O Sp. z o.o.*
+![Letter of intent from EnH2O (in Polish)](/assets/pages/consortium/enh2o-web.png)
+***Fig. 5.** Letter of intent from EnH2O Sp. z o.o. (in Polish).*

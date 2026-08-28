@@ -1,5 +1,5 @@
 ---
-title: Newsletter – Gotowe
+title: Newsletter – Subscription confirmed
 permalink: /newsletter-confirmed/
 layout: page
 sitemap: false
@@ -7,14 +7,15 @@ robots: noindex, nofollow
 ---
 
 
-> Status: subskrypcja aktywna
+> Status: subscription active
 {: .prompt-tip }
 
-Subskrypcja newslettera jest aktywna.
+Your newsletter subscription is now active.
 
-Od tej chwili:
-- będziesz otrzymywać powiadomienia o aktualizacjach na stronie  
-- nie będą wysyłane treści marketingowe ani wiadomości masowe  
-- częstotliwość wysyłki będzie mniej więcej odpowiadać publikacji nowych materiałów
+From now on:
 
-W każdej chwili możesz zrezygnować z subskrypcji, korzystając z linku w stopce wiadomości.
+- you will receive notifications about updates to the website;
+- we will not send marketing content or bulk emails;
+- messages will generally be sent when new material is published.
+
+You can unsubscribe at any time using the link in the footer of any email.

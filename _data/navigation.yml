@@ -16,10 +16,10 @@ tabs:
     icon: archive
 
   - title: "PL"
-    url: "/"
+    url: "https://klaster-plus.edu.pl/"
 
-#  - title: "EN"
-#    url: "https://en.klaster-plus.edu.pl/"
+  - title: "EN"
+    url: "/"
 
 bottom:
   - title: About

@@ -1,84 +1,85 @@
 ---
 # the default layout is 'page'
 icon: fas fa-project-diagram
-title: O projekcie KLASTER+
+title: About KLASTER+
 order: 2
 ---
 
-Pełna nazwa projektu brzmi:
+The full title of the project is:
 
-**„Wspólnoty energetyczne przyszłości – innowacyjny system integracji lokalnych odnawialnych źródeł energii (OZE) dla redukcji ubóstwa energetycznego i aktywizacji społeczności”.**
+**“Energy communities of the future – an innovative system for integrating local renewable energy sources (RES) to reduce energy poverty and support community engagement.”**
 
-Projekt odpowiada na jedno z najważniejszych wyzwań współczesnej energetyki: bezpieczną i efektywną integrację lokalnych odnawialnych źródeł energii z sieciami dystrybucyjnymi.
+The project addresses one of the key challenges in today’s energy sector: integrating local renewable energy sources into distribution networks safely and efficiently.
 
 <div style="text-align: center;">
   <img
     src="/assets/pages/about/concept.png"
-    alt="Koncepcja projektu KLASTER+"
+    alt="KLASTER+ project concept"
     style="width: 500px; max-width: 100%; border: 0px solid #ccc; padding: 4px; border-radius: 4px;"
   >
-<p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-  <strong>Rys 1.</strong> Koncepcja projektu KLASTER+.</p>
+  <p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
+    <strong>Fig. 1.</strong> KLASTER+ project concept.
+  </p>
 </div>
 
-## Projekt w liczbach
+## Project in numbers
 
-- **36 miesięcy** realizacji,
-- **7 członków zespołu projektowego**,
-- **4 partnerów merytorycznych i infrastrukturalnych**,
-- **1 999 757,15 zł** całkowitej wartości projektu,
-- demonstracja głównego rozwiązania na poziomie **TRL7**.
+- **36 months** of implementation,
+- **7 project team members**,
+- **4 technical and infrastructure partners**,
+- project budget: **PLN 1,999,757.15**,
+- demonstration of the main solution at **TRL 7**.
 
-## Wyzwanie
+## The challenge
 
-Mikrosieci integrują lokalne źródła OZE, magazyny energii oraz odbiorców. Zmienna generacja energii ze słońca i wiatru powoduje jednak trudności w utrzymaniu odpowiednich parametrów pracy sieci.
+Microgrids integrate local renewable energy sources, energy storage systems, and consumers. However, variable generation from solar and wind can make it difficult to maintain the required grid operating parameters.
 
-W przypadku przekroczenia dopuszczalnych wartości operator systemu dystrybucyjnego może ograniczyć generację lub odłączyć źródła OZE, a w określonych sytuacjach również całą mikrosieć. Prowadzi to do niewykorzystania lokalnie dostępnej energii i zmniejsza opłacalność inwestycji w odnawialne źródła energii.
+If operating limits are exceeded, the distribution system operator (DSO) may curtail renewable generation or disconnect renewable energy sources and, in some cases, the entire microgrid. This leaves locally available energy unused and reduces the economic viability of renewable energy investments.
 
-Rozwiązanie tego problemu wymaga bieżącej wymiany informacji pomiędzy mikrosiecią a operatorem oraz odpowiedniego sterowania produkcją, magazynowaniem i zużyciem energii.
+Addressing this challenge requires continuous data exchange between the microgrid and the DSO, together with coordinated control of energy generation, storage, and consumption.
 
-## Główny cel projektu
+## Main project objective
 
-Głównym celem projektu jest opracowanie, przetestowanie i wdrożenie sterownika polowego z nową funkcjonalnością **KLASTER+**. Sterownik zostanie zlokalizowany w punkcie przyłączenia mikrosieci do sieci operatora systemu dystrybucyjnego.
+The main objective is to develop, test, and deploy a field controller with the new **KLASTER+** functionality. The controller will be installed at the point where the microgrid connects to the DSO network.
 
-Opracowana funkcjonalność ma umożliwić komunikację pomiędzy systemem zarządzania mikrosiecią a systemem operatora. We współpracy z algorytmami sterowania mikrosiecią, w tym mechanizmem zero-export, rozwiązanie pozwoli koordynować pracę źródeł OZE, magazynów energii i odbiorników.
+The **KLASTER+** functionality will enable communication between the microgrid management system and the DSO’s system. Combined with microgrid control algorithms, including a zero-export mechanism, it will coordinate renewable energy sources, energy storage systems, and loads.
 
-Zakładane funkcje rozwiązania obejmują:
+The planned functions include:
 
-- monitorowanie warunków pracy w punkcie przyłączenia,
-- wymianę danych z systemami zarządzania mikrosiecią i siecią OSD,
-- utrzymywanie przepływów mocy w wymaganych granicach,
-- zwiększanie autokonsumpcji energii wytwarzanej lokalnie,
-- ograniczanie konieczności wyłączania źródeł OZE,
-- wspieranie bezpiecznej współpracy mikrosieci z siecią dystrybucyjną.
+- monitoring operating conditions at the point of connection,
+- exchanging data with the microgrid management system and the DSO’s network management system,
+- maintaining power flows within the required limits,
+- increasing the self-consumption of locally generated energy,
+- reducing the need to curtail renewable generation,
+- supporting safe interaction between the microgrid and the distribution network.
 
-Opracowany prototyp zostanie przetestowany laboratoryjnie, zweryfikowany z wykorzystaniem technologii HIL, a następnie zademonstrowany w rzeczywistym środowisku operacyjnym. Planowane jest osiągnięcie poziomu gotowości technologicznej **TRL7**.
+The prototype will be tested in the laboratory, verified using Hardware-in-the-Loop (HIL) technology, and then demonstrated in a real-world operating environment. The target technology readiness level is **TRL 7**.
 
-## Dodatkowy cel projektu
+## Additional project objective
 
-Dodatkowym celem jest opracowanie koncepcji algorytmu wykrywania pracy wyspowej mikrosieci. Algorytm będzie przeznaczony do przyszłej implementacji w sterownikach polowych instalowanych w punktach przyłączenia mikrosieci do sieci dystrybucyjnej.
+An additional objective is to develop a concept for an algorithm to detect islanded operation in a microgrid. The algorithm is intended for future use in field controllers installed at points where microgrids connect to distribution networks.
 
-W ramach projektu rozwiązanie zostanie opracowane i wstępnie zweryfikowane w środowisku laboratoryjnym do poziomu **TRL4**.
+Within the project, the solution will be developed and initially validated in the laboratory to **TRL 4**.
 
-## Zakres prac
+## Scope of work
 
-Realizacja projektu obejmuje:
+The project includes:
 
-1. analizę rzeczywistych danych energetycznych i wybór obiektu referencyjnego;
-2. opracowanie modeli symulacyjnych mikrosieci w programie DIgSILENT PowerFactory;
-3. analizę współpracy źródeł OZE, magazynów energii i odbiorników;
-4. opracowanie metod i algorytmów sterowania mikrosiecią;
-5. przygotowanie wymagań funkcjonalnych i technicznych dla sterownika polowego;
-6. implementację funkcjonalności KLASTER+ w prototypie sterownika;
-7. testy laboratoryjne i badania Hardware-in-the-Loop;
-8. integrację rozwiązania z rzeczywistą infrastrukturą energetyczną;
-9. przygotowanie rozwiązania do dalszego wdrażania i komercjalizacji;
-10. upowszechnianie wyników w środowisku naukowym, przemysłowym i społecznym.
+1. analysis of real-world energy data and selection of a reference site;
+2. development of microgrid simulation models in DIgSILENT PowerFactory;
+3. analysis of the interaction between renewable energy sources, energy storage systems, and loads;
+4. development of microgrid control methods and algorithms;
+5. definition of functional and technical requirements for the field controller;
+6. implementation of the KLASTER+ functionality in the controller prototype;
+7. laboratory and Hardware-in-the-Loop testing;
+8. integration of the solution with existing energy infrastructure;
+9. preparation of the solution for further deployment and commercialization;
+10. sharing project results with scientific, industrial, and public audiences.
 
-## Znaczenie projektu
+## Project significance
 
-Projekt łączy prace naukowe z praktycznym wdrożeniem opracowanej technologii. Jego rezultaty mają wspierać rozwój mikrosieci, klastrów energii i lokalnych wspólnot energetycznych.
+The project combines scientific research with practical implementation. Its results will support the development of microgrids, energy clusters, and local energy communities.
 
-Lepsze wykorzystanie energii wytwarzanej lokalnie może ograniczać koszty energii, zwiększać bezpieczeństwo energetyczne i wzmacniać odporność lokalnych sieci. Projekt obejmuje również działania edukacyjne i popularyzatorskie zwiększające wiedzę na temat energetyki rozproszonej oraz korzyści wynikających z wykorzystania OZE.
+Better use of locally generated energy can reduce energy costs, improve energy security, and strengthen the resilience of local grids. The project also includes educational and outreach activities to raise awareness of distributed energy and the benefits of renewable energy sources.
 
-Praca naukowa finansowana ze środków budżetu państwa w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą **„Nauka dla Rozwoju Społeczeństwa”**. Nr projektu: **NdRS/SP/0189/2025/01**; całkowita wartość projektu: **1 999 757,15 zł**.
+The project is funded from public funds under the **“Science for the Development of Society”** program of the **Ministry of Science and Higher Education**. Project No. **NdRS/SP/0189/2025/01**; project budget: **PLN 1,999,757.15**.

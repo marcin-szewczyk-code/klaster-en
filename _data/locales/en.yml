@@ -3,11 +3,98 @@
 # Theme: Chirpy
 # ==================================================================================
 
+tabs:
+#  categories: Categories
+#  tags: Tags
+#  archives: Archives
+  home: News
+  about: About
+  consortium: Partners
+  results: Results
+  media: Media
+
+search:
+  hint: Search
+  cancel: Cancel
+  no_results: No results found
+
+panel:
+  lastmod: Recently Updated
+  trending_tags: Trending Tags
+  toc: Table of Contents
+
+post:
+  written_by: Written by
+  posted: Published
+  updated: Updated
+  words: words
+  pageview_measure: views
+  read_time:
+    unit: min
+    prompt: read
+  relate_posts: Related Posts
+  share: Share
+  button:
+    next: Next
+    previous: Previous
+    copy_code:
+      succeed: Copied!
+    share_link:
+      title: Copy link
+      succeed: Link copied!
+
+page:
+  error:
+    404:
+      title: 404 – Page Not Found
+      subtitle: The page you are looking for does not exist.
+      back_link: Back to Home
+
+categories:
+  category_measure: categories
+  post_measure: posts
+
+tag:
+  tag_measure: tags
+
+archives:
+  year: Year
+  month: Month
+  day: Day
+  posts: Posts
+
+pagination:
+  older: Older
+  newer: Newer
+
+footer:
+  powered_by: Powered by
+  theme: Theme
+  copyrights: All rights reserved
+
 meta: "Generator:&nbsp;:PLATFORM · Theme:&nbsp;:THEME · License:&nbsp;:COPYRIGHT · Analytics:&nbsp;:PRIVACY"
 
 copyright:
-  brief: "All rights reserved."
-  verbose: "All rights reserved."
+  author: Author
   license:
-    template: "© Marcin Szewczyk. All rights reserved."
+    template: "© KLASTER+ Project. All rights reserved."
+  brief: All rights reserved.
+  verbose: All rights reserved.
 
+button:
+  copy: Copy
+  copied: Copied!
+  close: Close
+
+tooltip:
+  copy:
+    success: Copied!
+    fail: Copy failed
+
+notification:
+  update_found: A new version is available
+  update: "Update"
+
+date:
+  long: "%B %d, %Y"
+  short: "%b %d, %Y"

@@ -2,35 +2,35 @@
 # the default layout is 'page'
 icon: fa-fw fas fa-home
 order: 1
-title: Wspólnoty energetyczne przyszłości
+title: Energy Communities of the Future
 ---
 
-**KLASTER+** to projekt badawczo-wdrożeniowy dotyczący integracji lokalnych odnawialnych źródeł energii, magazynów energii i odbiorców w mikrosieciach współpracujących z siecią dystrybucyjną.
+**KLASTER+** is a research and development project focused on integrating local renewable energy sources, energy storage systems, and consumers within microgrids that interact with the distribution grid.
 
-Głównym celem projektu jest opracowanie i wdrożenie sterownika polowego wyposażonego w nową funkcjonalność **KLASTER+**. Urządzenie będzie pracować w punkcie przyłączenia mikrosieci do sieci operatora systemu dystrybucyjnego (OSD).
+The main aim of the project is to develop and deploy a field controller with the new **KLASTER+** functionality. The device will operate at the point where the microgrid connects to the distribution system operator’s (DSO) network.
 
-Sterownik ma umożliwić dwukierunkową wymianę informacji pomiędzy mikrosiecią a systemem operatora. Pozwoli to sterować lokalnymi źródłami OZE, magazynami energii i odbiornikami z uwzględnieniem aktualnych warunków pracy sieci.
+The controller will enable two-way data exchange between the microgrid and the DSO’s system. This will allow local renewable energy sources, energy storage systems, and loads to be controlled in response to current grid operating conditions.
 
 <div style="clear: both;"></div>
 
-## Dlaczego realizujemy projekt?
+## Why this project?
 
-Rozwój energetyki rozproszonej wymaga bezpiecznej i elastycznej współpracy mikrosieci z sieciami dystrybucyjnymi. Opracowane rozwiązanie ma umożliwić:
+The growth of distributed energy requires microgrids to interact safely and flexibly with distribution networks. The proposed solution will:
 
-- lepsze wykorzystanie energii wytwarzanej lokalnie,
-- zwiększenie autokonsumpcji energii z OZE,
-- ograniczenie konieczności wyłączania źródeł OZE i mikrosieci,
-- utrzymanie wymaganych parametrów w punkcie przyłączenia,
-- poprawę stabilności i bezpieczeństwa pracy sieci.
+- improve the use of locally generated energy,
+- increase the self-consumption of renewable energy,
+- reduce the need to curtail renewable generation or disconnect microgrids,
+- maintain the required operating parameters at the point of connection,
+- improve grid stability and security.
 
-Efekty projektu mają wspierać rozwój lokalnych wspólnot energetycznych, zwiększać wykorzystanie odnawialnych źródeł energii oraz przyczyniać się do ograniczania ubóstwa energetycznego.
+The project will support local energy communities, increase the use of renewable energy, and help reduce energy poverty.
 
-## Od modelu do wdrożenia
+## From model to deployment
 
-Prace obejmują analizę rzeczywistych danych, modelowanie mikrosieci, opracowanie algorytmów sterowania, przygotowanie wymagań dla sterownika, badania laboratoryjne i testy Hardware-in-the-Loop (HIL). Ostatnim etapem będzie demonstracja opracowanego rozwiązania w rzeczywistym środowisku pracy mikrosieci.
+The work includes the analysis of real-world data, microgrid modeling, the development of control algorithms, the definition of controller requirements, laboratory studies, and Hardware-in-the-Loop (HIL) testing. The final stage will demonstrate the solution in a real-world microgrid environment.
 
-Projekt realizuje **Politechnika Warszawska** we współpracy z partnerami reprezentującymi środowisko naukowe, producenta urządzeń automatyki elektroenergetycznej oraz operatorów infrastruktury energetycznej.
+The project is carried out by **Warsaw University of Technology** in cooperation with partners from academia, a manufacturer specializing in power-system automation, and energy infrastructure operators.
 
-## Finansowanie
+## Funding
 
-Praca naukowa finansowana ze środków budżetu państwa w ramach programu Ministra Nauki i Szkolnictwa Wyższego pod nazwą **„Nauka dla Rozwoju Społeczeństwa”**. Nr projektu: **NdRS/SP/0189/2025/01**.
+The project is funded from public funds under the **“Science for the Development of Society”** program of the **Ministry of Science and Higher Education**. Project No. **NdRS/SP/0189/2025/01**.
