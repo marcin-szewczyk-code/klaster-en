@@ -26,7 +26,16 @@ The authors were:
 - Robert Wójtowicz,
 - Kamil Przygoda.
 
+The presentation delivered by **Michał Połecki** at the conference is available for download as a PDF (in Polish):
+
+[**Download the SEBOR’26 conference presentation (PDF)**]({{ '/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-michal-polecki-wspolnoty-energetyczne-slides.pdf' | relative_url }})
+
 The **KLASTER+** team was represented at the conference by **Michał Połecki**, **Kamil Przygoda**, and **Marcin Szewczyk**.
+
+During the conference, **Marcin Szewczyk** also chaired Problem Session IIIa, “Power System Stability and Synchronisation.”
+
+![MMarcin Szewczyk chairing the “Power System Stability and Synchronisation” session at the SEBOR’26 conference](/assets/posts/2026-03-19-sebor-2026-conference/sebor-2026-marcin-szewczyk-session-chair.webp)
+***Rys. 2.** Chairing the “Power System Stability and Synchronisation” session during the SEBOR’26 conference.*
 
 ## About the conference
 
