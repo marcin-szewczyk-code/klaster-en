@@ -52,7 +52,7 @@ We thank **Mariusz Ostrowski** and the team at **Elektrometal Energetyka S.A.** 
 
 **KLASTER+ team:**
 
-- [Tadeusz Daszczyński](https://www.linkedin.com/in/ttadeusz-daszczynski/)
+- [Tadeusz Daszczyński](https://www.linkedin.com/in/tadeusz-daszczynski/)
 - [Marcin Szewczyk](https://www.linkedin.com/in/marcin-szewczyk/)
 - [Kamil Przygoda](https://www.linkedin.com/in/kamil-przygoda-4bb736232/)
 - [Michał Połecki](https://www.linkedin.com/in/micha%C5%82-po%C5%82ecki-72b714a9/)
