@@ -1,5 +1,5 @@
 ---
-title: "Article by the KLASTER+ Team Published in Electrical Review (Przegląd Elektrotechniczny)"
+title: "Article by the KLASTER+ Team Published in Electrical Review"
 description: "The publication presents a technical and systemic model of energy communities of the future designed to support local renewable energy integration and reduce energy poverty."
 date: 2026-07-29 12:00:00 +0200
 pin: false

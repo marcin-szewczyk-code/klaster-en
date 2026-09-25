@@ -2,24 +2,17 @@
 # the default layout is 'page'
 icon: fas fa-building
 title: Project Partners
-order: 3
+order: 4
 ---
 
 KLASTER+ brings together academia and industry. The project is led by **Warsaw University of Technology** in cooperation with partners experienced in microgrids, energy infrastructure, power system automation, and distribution network operation.
 
 The work covers the full process, from data analysis and modeling to prototype development, testing, and demonstration.
 
-<div style="text-align: center;">
-  <img
-    src="/assets/pages/consortium/project-partners.png"
-    alt="KLASTER+ project partners"
-    style="width: 500px; max-width: 100%; border: 1px solid #ccc; padding: 4px; border-radius: 4px;"
-  >
-<p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-  <strong>Fig. 1.</strong> KLASTER+ project partners.</p>
-</div>
+![KLASTER+ project partners](/assets/pages/consortium/project-partners-en.png)
+***Fig. 1** KLASTER+ project partners.*
 
-> **Official partner websites**
+> **Partner websites**
 >
 > - [Warsaw University of Technology](https://www.pw.edu.pl/)
 > - [Elektrometal Energetyka S.A.](https://elektrometal-energetyka.pl/)

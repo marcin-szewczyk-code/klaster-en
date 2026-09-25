@@ -31,6 +31,27 @@ The work includes the analysis of real-world data, microgrid modeling, the devel
 
 The project is carried out by **Warsaw University of Technology** in cooperation with partners from academia, a manufacturer specializing in power-system automation, and energy infrastructure operators.
 
-## Funding
+# Funding
 
-The project is funded from public funds under the **“Science for the Development of Society”** program of the **Ministry of Science and Higher Education**. Project No. **NdRS/SP/0189/2025/01**.
+The project is financed from the State budget, with funding granted by the **Minister of Science and Higher Education** under the **“Science for the Development of Society”** program. Project No. **NdRS/SP/0189/2025/01**; total project value: **PLN 1,999,757.15**.
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
+       alt="Minister of Science and Higher Education"
+       style="height:80px; width:auto; max-width:none;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
+       alt="Science for the Development of Society"
+       style="height:80px; width:auto; max-width:none;">
+
+</div>
+
+> **More information**
+>
+> 👉 Project and news: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/).
+>
+> 🔔 Newsletter: [**sign up here**](https://klaster-plus.edu.pl/newsletter/) – we only send notifications about new posts.
+>
+> 📌 Project contact: **Tadeusz Daszczyński, PhD Eng.** – [LinkedIn](https://pl.linkedin.com/in/tadeusz-daszczynski)
+{: .prompt-tip }

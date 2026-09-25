@@ -11,16 +11,8 @@ The full title of the project is:
 
 The project addresses one of the key challenges in today’s energy sector: integrating local renewable energy sources into distribution networks safely and efficiently.
 
-<div style="text-align: center;">
-  <img
-    src="/assets/pages/about/concept.png"
-    alt="KLASTER+ project concept"
-    style="width: 500px; max-width: 100%; border: 0px solid #ccc; padding: 4px; border-radius: 4px;"
-  >
-  <p style="text-align: center; font-size: 0.8rem; color: #6c757d; margin-top: 0.4rem;">
-    <strong>Fig. 1.</strong> KLASTER+ project concept.
-  </p>
-</div>
+![KLASTER+ project objectives](/assets/pages/about/project-objectives-en.png)
+***Fig. 1** KLASTER+ project objectives.*
 
 ## Project in numbers
 
@@ -82,4 +74,27 @@ The project combines scientific research with practical implementation. Its resu
 
 Better use of locally generated energy can reduce energy costs, improve energy security, and strengthen the resilience of local grids. The project also includes educational and outreach activities to raise awareness of distributed energy and the benefits of renewable energy sources.
 
-The project is funded from public funds under the **“Science for the Development of Society”** program of the **Ministry of Science and Higher Education**. Project No. **NdRS/SP/0189/2025/01**; project budget: **PLN 1,999,757.15**.
+## Funding
+
+The project is financed from the State budget, with funding granted by the **Minister of Science and Higher Education** under the **“Science for the Development of Society”** program. Project No. **NdRS/SP/0189/2025/01**; total project value: **PLN 1,999,757.15**.
+
+<div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
+       alt="Minister of Science and Higher Education"
+       style="height:80px; width:auto; max-width:none;">
+
+  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
+       alt="Science for the Development of Society"
+       style="height:80px; width:auto; max-width:none;">
+
+</div>
+
+> **More information**
+>
+> 👉 Project and news: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/).
+>
+> 🔔 Newsletter: [**sign up here**](https://klaster-plus.edu.pl/newsletter/) – we only send notifications about new posts.
+>
+> 📌 Project contact: **Tadeusz Daszczyński, PhD Eng.** – [LinkedIn](https://pl.linkedin.com/in/tadeusz-daszczynski)
+{: .prompt-tip }
