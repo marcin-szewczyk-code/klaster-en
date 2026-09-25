@@ -10,7 +10,6 @@ The kick-off meeting marking the start of the **KLASTER+** project is scheduled 
 > **The meeting has already taken place**
 >
 > 👉 [Read the highlights from the KLASTER+ project kick-off meeting](/posts/klaster-plus-kick-off-highlights/)
-
 {: .prompt-tip }
 
 ## Invitation
