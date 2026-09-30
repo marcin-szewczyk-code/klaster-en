@@ -21,5 +21,5 @@ The article also highlights the cooperation between research institutions, micro
 ![Article on the KLASTER+ project on the Faculty of Electrical Engineering WUT website](/assets/posts/2026-09-29-klaster-plus-media-coverage-02/media-coverage-ee-web.webp){: width="90%" style="display:block; margin-left:auto; margin-right:auto;" }
 *Article on the Faculty of Electrical Engineering, Warsaw University of Technology website.*
 
-![Information about the KLASTER+ project on the Faculty of Electrical Engineering WUT LinkedIn profile](/assets/posts/2026-09-29-klaster-plus-media-coverage-02/media-coverage-ee-ln.webp){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" }
-*Information about the KLASTER+ project on the Faculty of Electrical Engineering, Warsaw University of Technology LinkedIn profile.*
+![KLASTER+ on the Faculty of Electrical Engineering WUT LinkedIn profile.](/assets/posts/2026-09-29-klaster-plus-media-coverage-02/media-coverage-ee-ln.webp){: width="70%" style="display:block; margin-left:auto; margin-right:auto;" }
+*KLASTER+ on the Faculty of Electrical Engineering WUT LinkedIn profile.*
