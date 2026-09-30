@@ -6,13 +6,15 @@ sitemap: false
 robots: noindex, nofollow
 ---
 
-> Status: awaiting email confirmation
+> Status: request received
 {: .prompt-info }
 
-We have sent a confirmation link to the email address you provided.
+Your email address has been submitted to the newsletter system.
 
-To activate your subscription, open the email and click the confirmation link.
+If confirmation is required, you will receive an email with an activation link.
 
-If it does not arrive within a few minutes, check your **Spam** or **Promotions** folder.
+If your address is already active or was active before, confirmation may not be required again.
 
-You can unsubscribe at any time using the link in the footer of any email.
+If the confirmation email does not arrive within a few minutes, check your **Spam** folder.
+
+You can unsubscribe at any time using the link in the footer of any newsletter.
