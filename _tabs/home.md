@@ -37,14 +37,20 @@ The project is financed from the State budget, with funding granted by the **Min
 
 <div style="display:flex; flex-wrap:wrap; justify-content:center; align-items:center; gap:55px; margin:1.4rem 0 1.5rem 0;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/mnisw.png"
-       alt="Minister of Science and Higher Education"
-       style="height:80px; width:auto; max-width:none;">
+  <img src="/assets/pages/home/mnisw.png"
+       alt="Minister Nauki i Szkolnictwa Wyższego"
+       style="height:105px; width:auto; max-width:none;">
 
-  <img src="/assets/posts/2026-09-22-klaster-plus-kick-off-highlights/logotypes/ndrs.png"
-       alt="Science for the Development of Society"
-       style="height:80px; width:auto; max-width:none;">
+  <img src="/assets/pages/home/ndrs.png"
+       alt="Nauka dla Rozwoju Społeczeństwa"
+       style="height:105px; width:auto; max-width:none;">
 
+</div>
+
+<div style="display:flex; justify-content:center; align-items:center;">
+    <img src="/assets/pages/home/flaga-godlo.png"
+         alt="Godło Polski"
+         style="height:110px; width:auto; max-width:none;">
 </div>
 
 > **More information**
