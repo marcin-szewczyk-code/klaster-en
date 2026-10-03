@@ -5,7 +5,7 @@ date: 2026-09-23 12:00:00 +0200
 pin: true
 ---
 
-The English version of this article will be available soon.
+An English version of this article will be added at a later date.
 
 > **Polish version**
 >
