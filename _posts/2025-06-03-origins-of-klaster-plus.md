@@ -16,9 +16,11 @@ This email marked the beginning of the joint work on the project concept, which 
 
 The **KLASTER+ Team** was built on the experience of the **Electrical Apparatus Team**, which had been active for many years at the Faculty of Electrical Engineering. Its work covered research and development projects, industry collaboration, laboratory testing, and modelling. Over the previous six years, the Team had secured **PLN 7 million in funding** through research grants, implementation projects, and R&D projects carried out with industrial partners.
 
-The Electrical Apparatus Team consisted of **Tadeusz Daszczyński, PhD**, **Marcin Szewczyk, DSc**, **Szymon Stoczko, PhD**, and **Kamil Przygoda, MSc**, a doctoral student at the Warsaw University of Technology Doctoral School.
+The **Electrical Apparatus Team** consisted of **Tadeusz Daszczyński, PhD**, **Marcin Szewczyk, DSc**, **Szymon Stoczko, PhD**, and **Kamil Przygoda, MSc**, a doctoral student at the Warsaw University of Technology Doctoral School.
 
 The Team’s track record included numerous papers published in leading international journals as well as patents, including international patents developed in cooperation with industrial partners. At the same time, its research infrastructure was expanded with specialist laboratory equipment and computing resources worth **several hundred thousand PLN**.
+
+Within our own direct experience, earlier members of the Electrical Apparatus Group included **Dr Waldemar Chmielak**, **Dr Zbigniew Pochanke**, **Dr Włodzimierz Kałat**, **Prof. Stanisław Kulas**, **Prof. Jan Maksymiuk**, and **Prof. Zbigniew Ciok**, a former Vice-Rector for Research at Warsaw University of Technology.
 
 As the KLASTER+ concept took shape, the Team was expanded with expertise in power systems, microgrids, and renewable energy, brought in by **Michał Połecki, MSc**, and **Łukasz Rokicki, PhD**, as well as expertise in ICT infrastructure, represented by **Robert Wójtowicz, PhD**.
 
