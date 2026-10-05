@@ -10,6 +10,9 @@ The idea to form a team and prepare a funding application for the **KLASTER+** p
 > Gentlemen,  
 > I have some experience in preparing and managing grants funded by the Ministry of Science and Higher Education, so I am sending you an interesting call. Maybe we can come up with something together?
 
+> **The story behind the KLASTER+ project** 👉 [**Watch the video**](/posts/klaster-plus-kick-off-videos/).
+{: .prompt-tip }
+
 This email marked the beginning of the joint work on the project concept, which was later submitted and awarded funding under the Ministry of Science and Higher Education programme “Nauka dla Rozwoju Społeczeństwa” (“Science for the Development of Society”).
 
 ## From the Electrical Apparatus Team to the KLASTER+ Team

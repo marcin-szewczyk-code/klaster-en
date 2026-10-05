@@ -9,7 +9,7 @@ order: 3
 The KLASTER+ project is carried out by a seven-member team from the **Faculty of Electrical Engineering, Warsaw University of Technology**, bringing together expertise in power systems, electrical apparatus and switchgear, microgrids, automation and control, research infrastructure, and the implementation of advanced functions in field controllers.
 
 > **The story behind the KLASTER+ Team**  
-> Read the post: [**The Origins of the KLASTER+ Team and Project**](/posts/origins-of-klaster-plus/).
+> 👉 Read the post: [**The Origins of the KLASTER+ Team and Project**](/posts/origins-of-klaster-plus/).
 {: .prompt-tip }
 
 ![KLASTER+ project team](/assets/pages/team/team.webp)

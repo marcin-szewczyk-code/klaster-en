@@ -10,7 +10,7 @@ The full title of the project is:
 **“Energy communities of the future – an innovative system for integrating local renewable energy sources (RES) to reduce energy poverty and support community engagement.”**
 
 > **The story behind the KLASTER+ project**  
-> Read the post: [**The Origins of the KLASTER+ Team and Project**](/posts/origins-of-klaster-plus/).
+> 👉 Read the post: [**The Origins of the KLASTER+ Team and Project**](/posts/origins-of-klaster-plus/).
 {: .prompt-tip }
 
 The project addresses one of the key challenges in today’s energy sector: integrating local renewable energy sources into distribution networks safely and efficiently.

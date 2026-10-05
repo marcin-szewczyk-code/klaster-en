@@ -1,5 +1,5 @@
 ---
-title: "Photos from the KLASTER+ Kick-off Meeting"
+title: "Photos from the KLASTER+ Project Kick-Off"
 description: "The launch of the KLASTER+ project at CEZAMAT, Warsaw University of Technology."
 date: 2026-10-03 12:00:00 +0200
 pin: false
@@ -7,12 +7,21 @@ pin: false
 
 Here are some highlights from the **KLASTER+** project kick-off meeting, held on 22 September 2026 at **CEZAMAT, Warsaw University of Technology**.
 
-*Photos: Julia Kwiecińska and the KLASTER+ Team.*
-
-> Full coverage of the **KLASTER+** project kick-off meeting: [**read the post**](/posts/klaster-plus-kick-off-highlights/).
+> **Related materials**
+>
+> 👉 <i class="fa-solid fa-newspaper"></i> Full coverage of the **KLASTER+** project kick-off meeting: [**read the post**](/posts/klaster-plus-kick-off-highlights/).
+>
+> 👉 <i class="fa-solid fa-video"></i> Recordings and transcripts from the kick-off: [**view the materials**](/posts/klaster-plus-kick-off-videos/).
+>
+> 👉 <i class="fa-brands fa-youtube" style="color: #ff0000;"></i> Project YouTube channel: [**@KlasterPlus**](https://www.youtube.com/@KlasterPlus).
 {: .prompt-tip }
 
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**subscribe here**](https://klaster-plus.edu.pl/newsletter/) – we only send notifications about new posts.
+{: .prompt-info }
+
 ## Photo Gallery
+
+*Photos: Julia Kwiecińska and the KLASTER+ Team.*
 
 <div style="width:86%; margin:0 auto 14px auto; min-width:0;">
   <a href="/assets/posts/2026-10-03-klaster-plus-kick-off-photos/full/kickoff-001-klaster-1-d3ffdc.webp" class="popup img-link" rel="noopener" aria-label="Kick-off projektu KLASTER+ – klaster_1" style="display:block; text-decoration:none;">

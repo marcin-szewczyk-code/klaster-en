@@ -8,9 +8,12 @@ Media representatives are welcome to contact us regarding the KLASTER+ project, 
 
 > **Media relations**
 >
-> 📌 Contact person: **Tadeusz Daszczyński, PhD Eng.**, KLASTER+ Project Manager.
+> 👉 📌 Contact person: **Tadeusz Daszczyński, PhD Eng.**, KLASTER+ Project Manager.
 >
-> 🔗 [LinkedIn – Tadeusz Daszczyński](https://pl.linkedin.com/in/tadeusz-daszczynski)
+> 👉 🔗 [LinkedIn – Tadeusz Daszczyński](https://pl.linkedin.com/in/tadeusz-daszczynski)
 >
-> 🌐 Project information and news: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/)
+> 👉 🌐 Project information and news: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/)
 {: .prompt-tip }
+
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**subscribe here**](https://klaster-plus.edu.pl/newsletter/) – we only send notifications about new posts.
+{: .prompt-info }
