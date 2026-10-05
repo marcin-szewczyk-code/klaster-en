@@ -1,6 +1,6 @@
 ---
-title: "KLASTER+ Project Officially Launched"
-description: "Highlights from the KLASTER+ project kick-off meeting with the project team, industrial partners, and invited guests."
+title: "KLASTER+ Project Kick-off – Official Launch"
+description: "Highlights from the KLASTER+ project kick-off at CEZAMAT, Warsaw University of Technology, with the Team, industry partners and invited guests."
 date: 2026-09-23 12:00:00 +0200
 pin: true
 ---

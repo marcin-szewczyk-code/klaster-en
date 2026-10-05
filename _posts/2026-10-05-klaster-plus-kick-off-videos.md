@@ -1,6 +1,6 @@
 ---
-title: "Videos from the KLASTER+ Project Kick-Off"
-description: "Story behind KLASTER+ Team and an opening talk from the project kick-off at CEZAMAT PW on 22 September 2026."
+title: "YouTube Recordings from the KLASTER+ Project Kick-off"
+description: "Story behind KLASTER+ Team and an opening talk from the project kick-off at CEZAMAT, Warsaw University of Technology."
 date: 2026-10-05 08:30:00 +0200
 pin: false
 ---

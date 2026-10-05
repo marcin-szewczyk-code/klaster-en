@@ -1,6 +1,6 @@
 ---
-title: "Photos from the KLASTER+ Project Kick-Off"
-description: "The launch of the KLASTER+ project at CEZAMAT, Warsaw University of Technology."
+title: "Photo Gallery from the KLASTER+ Project Kick-off"
+description: "Photos from the KLASTER+ project launch at CEZAMAT, Warsaw University of Technology."
 date: 2026-10-03 12:00:00 +0200
 pin: false
 ---
