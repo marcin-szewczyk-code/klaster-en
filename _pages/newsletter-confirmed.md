@@ -7,7 +7,7 @@ robots: noindex, nofollow
 ---
 
 
-> Status: subscription active
+> **Status:** subscription active
 {: .prompt-tip }
 
 Your newsletter subscription is now active.

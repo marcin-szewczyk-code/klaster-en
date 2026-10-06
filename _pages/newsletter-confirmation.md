@@ -6,7 +6,7 @@ sitemap: false
 robots: noindex, nofollow
 ---
 
-> Status: request received
+> **Status:** request received
 {: .prompt-info }
 
 Your email address has been submitted to the newsletter system.
