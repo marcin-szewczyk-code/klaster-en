@@ -50,7 +50,7 @@ The project was assessed in three areas and received **35.4 out of 40 points**, 
 - **15.3/17** for social responsibility of science,
 - **5.6/6** for the applicant’s potential.
 
-Seven projects were submitted to the internal preselection at Warsaw University of Technology. **KLASTER+** was one of the two selected for submission to the ministerial call.
+Seven projects were submitted to the internal preselection at Warsaw University of Technology. **KLASTER+** was one of the three selected for submission to the ministerial call.
 
 ## From preselection to proposal submission
 
@@ -62,7 +62,7 @@ The proposal was submitted to the Ministry on 2 December 2025.
 
 ## Call results and project funding
 
-The call results were announced on 6 May 2026. **KLASTER+** was selected for funding from the state budget by the Minister of Science and Higher Education under the “Nauka dla Rozwoju Społeczeństwa” programme.
+The call results were announced on 6 May 2026. Of the three projects submitted by Warsaw University of Technology, two were awarded funding, while one was unsuccessful. **KLASTER+** was selected for funding from the state budget by the Minister of Science and Higher Education under the “Nauka dla Rozwoju Społeczeństwa” programme.
 
 The proposal received **34 out of 40 points**. It received the maximum score in **7 of the 12 assessment criteria**, including the relevance of the planned tasks, clear and measurable project outcomes, the organisational capacity of the applicant and its partners, and the planned dissemination of results. The project also received the maximum **6/6 points** in the entire area covering the **Team’s organisational capacity and competences**.
 
