@@ -11,7 +11,7 @@ On **19–20 October 2026**, members of the **KLASTER+** team – **Tadeusz Dasz
 
 **Siarkopol Gdańsk S.A.** was represented by **Jakub Papierski** – CEO, **Rafał Cichosz** – Head of the Process Utilities Department, and **Sabina Sadowska-Orzeszko** – Head of HR.
 
-![Meeting of representatives of KLASTER+, Siarkopol, EnH2O and IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/Siarkopol_01.webp)
+![Meeting of representatives of KLASTER+, Siarkopol, EnH2O and IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/siarkopol_01.webp)
 *The KLASTER+ team meets representatives of Siarkopol, EnH2O and IEN-PIB at Siarkopol Gdańsk.*
 
 **EnH2O Sp. z o.o.** was represented by **Mariusz Krużyński** – CEO, **Krzysztof Rozmysłowski** – Head of Energy Affairs, and **Henryk Denkiewicz** – Head of the Power Grid Department. **Bartłomiej Zosiuk**, CEO of **AT PROJECT Sp. z o.o.**, also attended the meeting.
@@ -28,7 +28,7 @@ The first meeting was hosted by **“Siarkopol” Gdańsk S.A.**, a member of th
 
 **Mariusz Krużyński**, CEO, presented the activities of **EnH2O Sp. z o.o.** The company operates in areas associated with the Gdańsk Shipyard, where it also serves as an **OSDn distribution system operator**.
 
-![Meeting of representatives of KLASTER+, Siarkopol, EnH2O and IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/Siarkopol_00.webp)
+![Meeting of representatives of KLASTER+, Siarkopol, EnH2O and IEN-PIB](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/siarkopol_00.webp)
 *The KLASTER+ team meets representatives of Siarkopol, EnH2O and IEN-PIB at Siarkopol Gdańsk.*
 
 In the next part of the meeting, **Bartłomiej Zosiuk**, CEO of **AT PROJECT Sp. z o.o.**, presented a concept developed for Siarkopol and EnH2O.
@@ -39,7 +39,7 @@ In the next part of the meeting, **Bartłomiej Zosiuk**, CEO of **AT PROJECT Sp.
 
 After the presentations, participants visited the **Siarkopol Gdańsk** cargo terminal. **Rafał Cichosz**, Head of the Process Utilities Department, introduced selected elements of the company's infrastructure, including **transformer substations** and a **water treatment facility**.
 
-![Visit to Siarkopol Gdańsk's technical infrastructure](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/Siarkopol_02.webp)
+![Visit to Siarkopol Gdańsk's technical infrastructure](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/siarkopol_02.webp)
 *Visiting the technical infrastructure of Siarkopol Gdańsk.*
 
 **Mariusz Krużyński**, CEO of EnH2O, and **Henryk Denkiewicz**, Head of the Power Grid Department, then presented EnH2O's electrical power infrastructure.
