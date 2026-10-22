@@ -7,6 +7,9 @@ pin: false
 
 On **19–20 October 2026**, members of the **KLASTER+** team – **Tadeusz Daszczyński, Łukasz Rokicki, Marcin Szewczyk, Szymon Stoczko and Robert Wójtowicz** – attended meetings in Gdańsk with representatives of **[“Siarkopol” Gdańsk S.A.](https://siarkopol.gda.pl/)**, **[EnH2O Sp. z o.o.](https://enh2o.com.pl/)** and the **[Gdańsk Branch of the Institute of Power Engineering](https://www.ien.gda.pl/)**.
 
+> <i class="fa-solid fa-envelope"></i> Newsletter: [**subscribe here**](https://en.klaster-plus.edu.pl/newsletter/) – we only send updates about new posts.
+{: .prompt-info }
+
 ### Meeting Participants
 
 **Siarkopol Gdańsk S.A.** was represented by **Jakub Papierski** – CEO, **Rafał Cichosz** – Head of the Process Utilities Department, and **Sabina Sadowska-Orzeszko** – Head of HR.
@@ -95,5 +98,9 @@ The two-day visit gave the KLASTER+ team an opportunity to explore how the KLAST
 
 We thank **Jakub Papierski**, CEO, and the team at Siarkopol Gdańsk S.A.; **Mariusz Krużyński**, CEO, and the representatives of EnH2O Sp. z o.o.; and **Michał Izdebski**, Branch Director, and the representatives of the Gdańsk Branch of IEN-PIB for their openness to cooperation and the opportunity to learn about both companies' electrical power infrastructure and the Institute's research and technology development facilities.
 
-> <i class="fa-solid fa-envelope"></i> Newsletter: [**subscribe here**](https://en.klaster-plus.edu.pl/newsletter/) – we only send updates about new posts.
-{: .prompt-info }
+## LinkedIn Post
+
+A summary of the visit published on LinkedIn.
+
+![LinkedIn post about the KLASTER+ team's visit to Gdańsk](/assets/posts/2026-10-19-klaster-plus-gdansk-visit/ln-en.webp)
+*LinkedIn post published on 21 October 2026. Translated from the original Polish post by LinkedIn.*
