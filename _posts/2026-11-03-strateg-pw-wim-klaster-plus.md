@@ -20,6 +20,9 @@ The meeting was attended by **Prof. Krzysztof Zaremba**, Rector of Warsaw Univer
 
 Other participants included **Prof. Tomasz Wejrzanowski, Aldona Zalewska, DSc, Prof. Radosław Achramowicz, Gabriela Komorowska, MSc Eng., Krzysztof Kalinowski, MSc Eng., and Tadeusz Daszczyński, PhD Eng.**, as well as a representative of **Stoen Operator**.
 
+![Participants of the IDUB Steering Committee meeting](/assets/posts/2026-11-03-strateg-pw-wim-klaster-plus/2026-11-03-strateg-pw-uczestnicy.webp)
+*Representatives of the STRATEG PW project team. From left: **Tadeusz Daszczyński**, PhD Eng.; **Andrzej Barcewicz** from the WUT Investment Department; **Aldona Zalewska**, DSc Eng., WUT Professor; **Radosław Achramowicz**, DSc Eng., Professor of Architecture; **Gabriela Komorowska**, MSc Eng.; **Tomasz Wejrzanowski**, Professor, DSc Eng.; **Krzysztof Kalinowski**, MSc Eng.; and a representative of **Stoen Operator**.*
+
 ### Presentation of the WIM PW Project
 
 During the meeting, **Prof. Tomasz Wejrzanowski**, Vice-Dean for General Affairs and Research at WUT's **Faculty of Materials Science and Engineering (WIM)**, presented the results of the project **“Pilot Installation for Energy Generation and Storage Based on Efficient and Durable Photovoltaic and Battery Technologies”**.
