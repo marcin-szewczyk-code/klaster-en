@@ -18,7 +18,7 @@ On **3 November 2026**, the Steering Committee of the **Excellence Initiative �
 
 The meeting was attended by **Prof. Krzysztof Zaremba**, Rector of Warsaw University of Technology, and the Vice-Rectors: **Prof. Mirosław Karpierz, Prof. Mariusz Malinowski, Prof. Jan Słyk, Prof. Adam Woźniak and Prof. Robert Zalewski**.
 
-Other participants included **Prof. Tomasz Wejrzanowski, Aldona Zalewska, DSc, Prof. Radosław Achramowicz, Gabriela Komorowska, MSc Eng., Krzysztof Kalinowski, MSc Eng., and Tadeusz Daszczyński, PhD Eng.**, as well as a representative of **Stoen Operator**.
+Other participants included **Prof. Tomasz Wejrzanowski, Aldona Zalewska, DSc, Prof. Radosław Achramowicz, **Andrzej Barcewicz**, MSc Eng., Gabriela Komorowska, MSc Eng., Krzysztof Kalinowski, MSc Eng., and Tadeusz Daszczyński, PhD Eng.**, as well as a representative of **Stoen Operator**.
 
 ![Participants of the IDUB Steering Committee meeting](/assets/posts/2026-11-03-strateg-pw-wim-klaster-plus/2026-11-03-strateg-pw-uczestnicy.webp)
 *Representatives of the STRATEG PW project team. From left: **Tadeusz Daszczyński**, PhD Eng.; **Andrzej Barcewicz** from the WUT Investment Department; **Aldona Zalewska**, DSc Eng., WUT Professor; **Radosław Achramowicz**, DSc Eng., Professor of Architecture; **Gabriela Komorowska**, MSc Eng.; **Tomasz Wejrzanowski**, Professor, DSc Eng.; **Krzysztof Kalinowski**, MSc Eng.; and a representative of **Stoen Operator**.*
