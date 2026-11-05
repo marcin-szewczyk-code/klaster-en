@@ -1,5 +1,5 @@
 ---
-title: "STRATEG PW – Research Opportunities for KLASTER+"
+title: "STRATEG PW – Research Opportunities for KLASTER+ project"
 description: "Operational data from the WIM PW microgrid will support the development of energy management algorithms in KLASTER+ project."
 date: 2026-11-03 17:00:00 +0100
 pin: false
