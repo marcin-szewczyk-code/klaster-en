@@ -11,6 +11,13 @@ The main aim of the project is to develop and deploy a field controller with the
 
 The controller will enable two-way data exchange between the microgrid and the DSO’s system. This will allow local renewable energy sources, energy storage systems, and loads to be controlled in response to current grid operating conditions.
 
+> **More information**
+>
+> 👉 Project and news: [**klaster-plus.pw.edu.pl**](https://klaster-plus.edu.pl/).
+>
+> 🔔 Newsletter: [**sign up here**](https://klaster-plus.edu.pl/newsletter/) – we only send notifications about new posts.
+{: .prompt-tip }
+
 <div style="clear: both;"></div>
 
 ## Why this project?
